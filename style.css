@@ -1,0 +1,116 @@
+.book-direct {
+    font-size:.75em;
+}
+
+#call-us {
+    background:url(https://www.playacarvacationrentals.com/custimages/new-frontpage/pinneaple-family-playa-del-carmen.jpg) no-repeat center center fixed;
+    background-size:cover
+}
+
+#more-reviews {
+    background:url(https://www.playacarvacationrentals.com/custimages/new-frontpage/woman-floating-in_cenote.jpg) no-repeat center center fixed;
+    background-size:cover
+}
+
+#view-all {
+    background:url(https://www.playacarvacationrentals.com/custimages/new-frontpage/aerial-view-playadelcarmen.jpg) no-repeat center center fixed;
+    background-size:cover
+}
+
+#mkt-partners {
+    background:rgb(86,174,220);
+    background:-moz-linear-gradient(180deg,rgba(86,174,220,.3) 0%,rgba(255,255,255,1) 100%);
+    background:-webkit-linear-gradient(180deg,rgba(86,174,220,.3) 0%,rgba(255,255,255,1) 100%);
+    background:linear-gradient(180deg,rgba(86,174,220,.3) 0%,rgba(255,255,255,1) 100%);
+}
+
+#pre-footer {
+    border-top:1px solid #193979
+}
+
+.white-text {
+    color:white;text-shadow:2px 2px 2px rgba(0,0,0,.5);
+}
+
+h1,h2,h3 {
+    font-family:Georgia,"Times New Roman",Times,serif;
+}
+
+.white-bg h2,#book-safetely-online-header {
+    color:#F4B718;font-size:2em;
+}
+
+#pre-footer h2{
+    color:#193979
+}
+
+#book-safetely-online-header {
+    color:#F4B718;
+    font-size:2em;
+    font-family:Georgia,"Times New Roman",Times,serif;
+}
+
+.white-bg h3 {
+    color:#F4B718;font-family:Arial,Helvetica,sans-serif;font-size:1em
+}
+
+#nerby-attractions .attraction {
+    color:white;padding-bottom:30px
+}
+
+#disclaimer {
+    font-size:.6em
+}
+
+#call-us #telephone1800,#more-reviews #guest-reviews {
+    text-decoration:none
+}
+
+.default-button a {
+    color:white;
+    font-weight:600;
+    letter-spacing:1.5px;
+    text-transform:uppercase;
+    text-decoration:none!important;
+}
+
+.default-button {
+    border-radius:8px;
+}
+
+.orange-button {
+    border:1px solid #F4B718;
+    color:#fff;
+    background:#F4B718
+}
+
+.orange-button:hover {
+    border:1px solid #EBAA00;
+    color:#fff;
+    background:#EBAA00;
+}
+
+#cta-promo {
+    font-size:1.5em;
+    margin-top:1em;
+}
+
+.window {
+    background-color:#F4B718;
+}
+
+.div100 {
+    width:100%;
+}
+
+#covid-19 {
+    background-color: #193979;
+    margin-top: 28px;
+    margin-bottom: 28px;
+    color: white;
+    padding: 4%;
+}
+
+#covid-19 h2 {
+    color: white;
+}
